@@ -1,4 +1,4 @@
-# viJoule
+<h1><img alt="Bright light" src="https://i.imgur.com/SsZ36xT.png" /> viJoule</h1>
 ## Power BI for Salesforce Lightning
 
 [<img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">](https://githubsfdeploy.herokuapp.com/?owner=dannysummerlin&repo=viJoule&ref=main)
