@@ -1,6 +1,8 @@
 # viJoule
 ## Power BI for Salesforce Lightning
 
+[<img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">](https://githubsfdeploy.herokuapp.com/?owner=dannysummerlin&repo=viJoule&ref=main)
+
 Use this Lightning Component to embed a dynamic Power BI report in Salesforce! You can use [URL Filters](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-url-filters) with up to three filters based on Record details to make the report responsize to the page you are on, provided your licensing supports it.
 - If you use a public sharing link, you will not be able to filter, unless you have a high-end license/capacity purchase (that I've never used, so your mileage may vary)
 - If you use a private link, on the first page load the reader will have to login to Office 365, and potentially reload the page/click "Sign In" again
