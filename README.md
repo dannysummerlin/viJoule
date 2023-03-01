@@ -14,8 +14,8 @@ In order to use the component:
   <td>
     <ol>
       <li>First enter the Power BI report sharing link</li>
-      <li>If you do want to filter, enter your [oData Query](https://learn.microsoft.com/en-us/odata/concepts/queryoptions-overview); use the placeholders field1/field2/field3 for where you would like record values inserted</li>
-      <li>Enter the [API Name](https://help.salesforce.com/s/articleView?id=000385500&type=1) for the record field(s) you would like to filter on</li>
+      <li>If you do want to filter, enter your <a href="https://learn.microsoft.com/en-us/odata/concepts/queryoptions-overview">oData Query</a>); use the placeholders field1/field2/field3 for where you would like record values inserted</li>
+      <li>Enter the <a href="https://help.salesforce.com/s/articleView?id=000385500&type=1">API Name</a> for the record field(s) you would like to filter on</li>
     </ol><br/>
     <i>NB: If the field name has a space in it, you have to replace it with _x0020_, also you have to make sure the dataset doesn't have that field hidden</i>
   </td>
