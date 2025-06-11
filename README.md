@@ -20,3 +20,4 @@ In order to use the component:
     <i>NB: If the field name has a space in it, you have to replace it with _x0020_, also you have to make sure the dataset doesn't have that field hidden</i>
   </td>
   </tr></table>
+<a style="font-size:small" href="https://www.flaticon.com/free-icons/idea" title="idea icons">Idea icon created by Freepik - Flaticon</a>
