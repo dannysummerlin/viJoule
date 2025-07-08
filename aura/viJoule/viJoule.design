@@ -1,9 +1,0 @@
-<design:component>
-	<design:attribute name="title" label="Title" description="Title for the page element"/>
-	<design:attribute name="powerBiUrl" required="true" label="PowerBI URL" description="The iframe link to the visualization"/>
-	<design:attribute name="filterString" label="Filter String" description="Like 'Opportunity/AccountId eq recordId', where recordId will be replaced with the ID source field below" />
-	<design:attribute name="field1" label="Field Name 1" description="API name of field to substitute value for in filter referenced by 'field1'" />
-	<design:attribute name="field2" label="Field Name 2" description="API name of field to substitute value for in filter referenced by 'field2'" />
-	<design:attribute name="field3" label="Field Name 3" description="API name of field to substitute value for in filter referenced by 'field3'" />
-	<design:attribute name="idSource" label="ID Source" description="NOT WORKING Field name for the record ID referenced in the filter" />
-</design:component>
